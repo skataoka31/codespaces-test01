@@ -1,1 +1,1 @@
-console.log("こんにちは、Codespaces")
+console.log("こんにちは、Codespaces。VSCODEから更新")
